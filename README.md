@@ -1,6 +1,6 @@
-# My nickname is Myndi 👋
+# I'm known as Myndi 👋
 
-[Short description or tagline that highlights your expertise or interests]
+I used to describe myself as a [Pandora Box](https://en.wikipedia.org/wiki/Pandora%27s_box), until a friend told me everything that comes from that box is chaotic. Might not be that wrong, but I like doing good to people as well 💞
 
 ## Programming Languages and Technologies 💻
 
