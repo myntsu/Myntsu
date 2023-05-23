@@ -1,44 +1,37 @@
-# Myndi 👋
+# My nickname is Myndi 👋
 
 [Short description or tagline that highlights your expertise or interests]
 
-## About Me ℹ️
+## Programming Languages and Technologies 💻
 
-[A brief introduction about yourself and your background. Mention your areas of expertise, interests, or any other relevant information.]
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ## Projects 🚀
 
-### [Project Name]
+### Cozynova
 
-[Provide a brief description of the project, including its purpose, key features, and any notable technologies or frameworks used.]
+Cozynova is a utility webpage for the private server called [Nova Ragnarok Online](https://www.novaragnarok.com/?module=main). It's a personal proyect mantained by myself. 
 
-- **Project Link:** [Link to the project repository or demo]
-- **Demo:** [If applicable, provide a link to a live demo or video demonstration]
+Built with Astro and hosted with Netlify.
 
-### [Project Name]
-
-[Repeat the same format as above for each significant project you want to showcase.]
+- **Project Link:** https://github.com/Myntsu/cozynova
+- **Demo:** https://cozynova.online/
 
 ## Open Source Contributions 🌐
 
-[If you have contributed to open-source projects, mention them here. Highlight the projects, the contributions you made, and any relevant links.]
+- None at this very moment 😢
 
 ## Blog Posts or Articles 📝
 
-[If you have written blog posts or articles, include a list of titles or links here.]
+- **Utility Blog:** (WIP) [Astro Blog](https://astro-blog-custom.netlify.app/)
 
 ## Contact Me 📬
 
-[Provide information on how others can reach you, such as your email address or social media profiles.]
-
-## Fun Fact 🎉
-
-[Share an interesting or unique fact about yourself.]
-
-
-- 📫 How to reach me dingodille16@hotmail.com; Discord: Myndi#5041
-
-<!---
-Myntsu/Myntsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Email**: dingodille16@hotmail.com 
+- **Discord**: Myndi#5041
