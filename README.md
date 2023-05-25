@@ -1,6 +1,7 @@
 # I'm known as Myndi 👋
 
-I used to describe myself as a [Pandora Box](https://en.wikipedia.org/wiki/Pandora%27s_box), until a friend told me everything that comes from that box is chaotic. Might not be that wrong, but I like doing good to people as well 💞
+I used to describe myself as a [Pandora Box](https://en.wikipedia.org/wiki/Pandora%27s_box), until a friend told me everything that comes from that box is chaotic. 
+Not incorrect, but I like to leave a positive impact on people as well 💞
 
 ## Programming Languages and Technologies 💻
 
@@ -16,7 +17,7 @@ I used to describe myself as a [Pandora Box](https://en.wikipedia.org/wiki/Pando
 
 ### Cozynova
 
-Cozynova is a utility webpage for the private server called [Nova Ragnarok Online](https://www.novaragnarok.com/?module=main). It's a personal proyect mantained by myself. 
+Cozynova is a utility webpage for a private server called [Nova Ragnarok Online](https://www.novaragnarok.com/?module=main). It's a personal proyect mantained by myself. 
 
 Built with Astro and hosted with Netlify.
 
