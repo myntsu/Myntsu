@@ -1,7 +1,7 @@
 # I'm known as Myndi 👋
 
 I used to describe myself as a [Pandora Box](https://en.wikipedia.org/wiki/Pandora%27s_box), until a friend told me everything that comes from that box is chaotic. 
-Not incorrect, but I like to leave a positive impact on people as well 💞
+Not an incorrect description, but I like to leave a positive impact on people as well 💞
 
 ## Programming Languages and Technologies 💻
 
