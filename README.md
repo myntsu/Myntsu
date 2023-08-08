@@ -50,5 +50,5 @@ Cozynova is a utility webpage for a private server that was called [Nova Ragnaro
 ## Contact Me 📬
 
 - **Email**: dingodille16@hotmail.com 
-- **Discord**: Myndi#5041
+- **Discord**: myntsu
 - **LinkedIn**: https://www.linkedin.com/in/piero-buccioni-arriagada-670917a1/
