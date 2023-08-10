@@ -23,9 +23,9 @@ This is a Portfolio & Blog that serves both as a personal project and a template
 *This is an open source project, that I created and mantain.* 
 
 **📚 Stack:** HTML, Astro, CSS, JavaScript, TypeScript, Git, NPM, GitHub, Netlify  
-**Features:** a11y, SEO, responsive, template, open source
+**🎀 Features:** a11y, SEO, responsive, template, open source
 
-- **Project Link:** https://github.com/Myntsu/astro-blog
+- **Project Link:** https://github.com/Myntsu/myndi
 - **Demo:** https://myndi.dev/
 
 ### 💙 Cozynova
@@ -34,7 +34,7 @@ Cozynova is a utility webpage for a private server that was called [Nova Ragnaro
 *This a personal proyect mantained by myself.*
 
 **📚 Stack:** HTML, Astro, CSS, Bootstrap, JavaScript, jQuery, Git, NPM, GitHub, Netlify  
-**Features:** a11y, SEO, responsive, tools app
+**🎀 Features:** a11y, SEO, responsive, tools app
 
 - **Project Link:** https://github.com/Myntsu/cozynova
 - **Demo:** https://cozynova.online/
