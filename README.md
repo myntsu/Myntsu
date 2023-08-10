@@ -19,7 +19,7 @@ Not an incorrect description, but I like to leave a positive impact on people as
 
 ### 🖤 Blogfolio
 
-This is a Portfolio & Blog that serves both as a personal project and a template for people to use 🤗
+This is a Portfolio & Blog that serves both as a personal project and a template for people to use 🤗  
 *This is an open source project, that I created and mantain.* 
 
 **Stack:** HTML, Astro, CSS, JavaScript, TypeScript, Git, NPM, GitHub, Netlify  
