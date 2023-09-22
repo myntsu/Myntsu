@@ -22,7 +22,7 @@ Not an incorrect description, but I like to leave a positive impact on people as
 This is a Portfolio & Blog that serves both as a personal project and a template for people to use 🤗  
 *This is an open source project, that I created and mantain.* 
 
-**📚 Stack:** HTML, Astro, CSS, JavaScript, TypeScript, Git, NPM, GitHub, Netlify  
+**📚 Stack:** HTML, Astro, CSS, JavaScript, TypeScript, Git, NPM, GitHub, Vercel  
 **🎀 Features:** a11y, SEO, responsive, template, open source
 
 - **Project Link:** https://github.com/Myntsu/myndi
