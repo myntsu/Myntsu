@@ -7,13 +7,17 @@ Not an incorrect description, but I like to leave a positive impact on people as
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-4245ff?style=flat-square&logo=astro&logoColor=white)  
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-46fbb3?style=flat-square&logo=bulma&logoColor=black)  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-f7861c?style=flat-square&logo=jquery&logoColor=white)  
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
+
 ![PostgreSQL](https://img.shields.io/badge/SQL-100000?style=flat-square&logo=postgresql&logoColor=white&labelColor=3168DA&color=3168DA)
 
 ## Projects 🚀
