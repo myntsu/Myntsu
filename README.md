@@ -14,7 +14,7 @@ Not an incorrect description, but I like to leave a positive impact on people as
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-f7861c?style=flat-square&logo=jquery&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/VueJs-f7861c?style=flat-square&logo=jquery&logoColor=green)  
+![Vue.js](https://img.shields.io/badge/VueJs-f7861c?style=flat-square&logo=vuejs&logoColor=green)  
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
