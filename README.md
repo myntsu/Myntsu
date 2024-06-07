@@ -13,7 +13,8 @@ Not an incorrect description, but I like to leave a positive impact on people as
 ![Bulma](https://img.shields.io/badge/Bulma-46fbb3?style=flat-square&logo=bulma&logoColor=black)  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-f7861c?style=flat-square&logo=jquery&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-f7861c?style=flat-square&logo=jquery&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/VueJs-f7861c?style=flat-square&logo=jquery&logoColor=green)  
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
