@@ -48,7 +48,7 @@ Cozynova is a utility webpage for a private server that was called [Nova Ragnaro
 **🎀 Features:** a11y, SEO, responsive, tools app
 
 - **Project Link:** https://github.com/Myntsu/cozynova
-- **Demo:** https://cozynova.online/
+- **Demo:** [https://cozynova.online/](https://cozynova.netlify.app/)
 
 ## Open Source Contributions 🌐
 
